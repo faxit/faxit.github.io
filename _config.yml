@@ -1,6 +1,6 @@
 # Site settings
 title: FaxIt
-description: 'Send fax and pay with Mobile Money , Just like that !'
+description: 'Send fax anywhere and pay with Mobile Money , Just like that !'
 url: 'http://www.faxit.cm' 
 baseurl: '/'
 google_analytics: 'xxxxxxxxx'
