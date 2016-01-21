@@ -1,16 +1,15 @@
 # Site settings
-title: Jean-francis Ahanda
-description: 'Consultant #Telecom #Cloud and #IT , love travel and food.'
-url: 'http://www.jeanfrancisahanda.cm' 
+title: FaxIt
+description: 'Send fax and pay with Mobile Money , Just like that !'
+url: 'http://www.faxit.cm' 
 baseurl: '/'
-google_analytics: 'UA-24417187-3'
+google_analytics: 'xxxxxxxxx'
 
 author:
-  name: 'Jean Francis Ahanda'
-  email: contact@jeanfrancisahanda.cm
-  twitter_username: jeanfrancis
-  github_username:  jeanfrancis
-  linkedin_username:  jeanfrancisahanda
+  name: 'FaxIt'
+  email: contact@faxit.cm
+  twitter_username: faxit
+  
 
 # Build settings
 destination: _site
